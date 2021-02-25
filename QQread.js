@@ -50,11 +50,7 @@ const notifyInterval = 2; // 0为关闭通知，1为所有通知，2为12 23 点
 $.message = '', COOKIES_SPLIT = '', CASH = '', ddtime = '';
 
 const QQreadurlArr = [];
-let QQreadurlVal = `https://iostgw6.reader.qq.com/v7_5_7/userinfo?ywkey=ywgGmhWn00Zp&ywguid=64871872
-https://iostgw6.reader.qq.com/v7_5_7/userinfo?ywkey=ywSyd7wLuPis&ywguid=3367037545
-https://iostgw6.reader.qq.com/v7_5_7/userinfo?ywkey=ywVcFUPvHd4C&ywguid=348413079
-https://iostgw6.reader.qq.com/v7_5_7/userinfo?ywkey=ywlKRwyft3so&ywguid=344741016
-https://iostgw6.reader.qq.com/v7_5_7/userinfo?ywkey=yw3pTGqBmsLV&ywguid=3224512178`;
+let QQreadurlVal = ``;
 let middleQQreadURL = [];
 
 
